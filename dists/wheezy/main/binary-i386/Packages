@@ -1,0 +1,23 @@
+Package: nativecam
+Version: 0.1.6
+Architecture: all
+Maintainer: Fernand Veilleux <fernveilleux@gmail.com>
+Installed-Size: 3283
+Depends: python (>= 2.7), python-lxml
+Recommends: linuxcnc | linuxcnc-uspace, truetype-tracer
+Priority: extra
+Section: misc
+Filename: pool/main/n/nativecam/nativecam_0.1.6_all.deb
+Size: 1664718
+SHA256: f644831a94094b56f74165e3ae0c6c09f84060f892e8093d80899788ee66380f
+SHA1: bc59242df46f1acaf522d264fbaf57e479f64f16
+MD5sum: e7c1590c311780f2af6fb02ebd1596de
+Description: Conversational programming for LinuxCNC
+ Requires LinuxCNC with support for auxiliary examples
+ and auxiliary gladevcp applications.
+ To check for availability, run the script:
+ $ linuxcnc_var all # if Run-in-place, source rip-environment first
+ When available, expected system directories are:
+ LINUXCNC_AUX_GLADEVCP=/usr/share/linuxcnc/aux_gladevcp
+ LINUXCNC_AUX_EXAMPLES=/usr/share/linuxcnc/aux_examples
+

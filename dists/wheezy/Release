@@ -1,0 +1,30 @@
+Origin: NativeCAM
+Label: Debian Ubuntu All
+Suite: unstable
+Codename: wheezy
+Version: 0.1.6
+Date: Thu, 20 Jul 2017 01:43:20 UTC
+Architectures: amd64 i386
+Components: main
+Description: Conversational programming for LinuxCNC
+MD5Sum:
+ 7992bd0ba5dceaa5827d6c5d24086395 903 main/binary-amd64/Packages
+ a3e5f5d0dbb4a609d2c0e0791569e28a 608 main/binary-amd64/Packages.gz
+ a3ad516f4f62ff764814ef6c6ea74127 165 main/binary-amd64/Release
+ 7992bd0ba5dceaa5827d6c5d24086395 903 main/binary-i386/Packages
+ a3e5f5d0dbb4a609d2c0e0791569e28a 608 main/binary-i386/Packages.gz
+ e11df315e3cf67b671df6cb355b705d2 164 main/binary-i386/Release
+SHA1:
+ be1d12257ab6b3ccf537a78c25ad3b271792ea05 903 main/binary-amd64/Packages
+ 2d84baf35d6be7045db8586197cd7b0690643ed6 608 main/binary-amd64/Packages.gz
+ 1a7383186f8295aeb69a9d09f1b8000e4d1284d4 165 main/binary-amd64/Release
+ be1d12257ab6b3ccf537a78c25ad3b271792ea05 903 main/binary-i386/Packages
+ 2d84baf35d6be7045db8586197cd7b0690643ed6 608 main/binary-i386/Packages.gz
+ c4d615100d65825d98e7a0c2cdc1eea84568cc5d 164 main/binary-i386/Release
+SHA256:
+ 5bd4548be9b4e3474303867caeb9f1ff1143f99eb07291162067fb36c4adb385 903 main/binary-amd64/Packages
+ eec04d4d882bbb23b9551316d77dcf0e5e4d0480dcc7b261ae99a92cee802609 608 main/binary-amd64/Packages.gz
+ 315437a71b7c929503d5953c83d32ad49d88b1107ea1232429c54118c9587343 165 main/binary-amd64/Release
+ 5bd4548be9b4e3474303867caeb9f1ff1143f99eb07291162067fb36c4adb385 903 main/binary-i386/Packages
+ eec04d4d882bbb23b9551316d77dcf0e5e4d0480dcc7b261ae99a92cee802609 608 main/binary-i386/Packages.gz
+ 12895e93e09708650a2fbd0b311e9035345deb09378b3b6d820c3065d34dfc71 164 main/binary-i386/Release

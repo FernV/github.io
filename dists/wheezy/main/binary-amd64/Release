@@ -1,0 +1,7 @@
+Archive: unstable
+Version: 0.1.6
+Component: main
+Origin: NativeCAM
+Label: Debian Ubuntu All
+Architecture: amd64
+Description: Conversational programming for LinuxCNC
