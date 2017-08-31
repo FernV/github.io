@@ -2,7 +2,7 @@ Origin: NativeCAM
 Label: Debian Ubuntu All
 Suite: unstable
 Codename: wheezy
-Version: 0.1.6
+Version: 0.1.7
 Architectures: amd64 i386
 Components: main
 Description: Conversational programming for LinuxCNC
