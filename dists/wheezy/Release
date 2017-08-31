@@ -2,65 +2,29 @@ Origin: NativeCAM
 Label: Debian Ubuntu All
 Suite: unstable
 Codename: wheezy
-Version: 0.1.6
-Date: Thu, 31 Aug 2017 03:00:24 UTC
+Version: 0.1.8
+Date: Thu, 31 Aug 2017 03:24:44 UTC
 Architectures: amd64 i386
-Components: main contrib non-free
+Components: main
 Description: Conversational programming for LinuxCNC
 MD5Sum:
- 0e01f394dba59949fd1eb58cde205110 903 main/binary-amd64/Packages
- 6e901c6cb7075f3ede7e152c09d05407 605 main/binary-amd64/Packages.gz
+ 61b954b47048a2c59165b25c5834859b 903 main/binary-amd64/Packages
+ f6ca4cd4117e2c0c859c80c2ea78bf40 607 main/binary-amd64/Packages.gz
  a3ad516f4f62ff764814ef6c6ea74127 165 main/binary-amd64/Release
- 0e01f394dba59949fd1eb58cde205110 903 main/binary-i386/Packages
- 6e901c6cb7075f3ede7e152c09d05407 605 main/binary-i386/Packages.gz
+ 61b954b47048a2c59165b25c5834859b 903 main/binary-i386/Packages
+ f6ca4cd4117e2c0c859c80c2ea78bf40 607 main/binary-i386/Packages.gz
  e11df315e3cf67b671df6cb355b705d2 164 main/binary-i386/Release
- d41d8cd98f00b204e9800998ecf8427e 0 contrib/binary-amd64/Packages
- 7029066c27ac6f5ef18d660d5741979a 20 contrib/binary-amd64/Packages.gz
- 5dd67b29afeeb4aa1e2e505f3b43a892 168 contrib/binary-amd64/Release
- d41d8cd98f00b204e9800998ecf8427e 0 contrib/binary-i386/Packages
- 7029066c27ac6f5ef18d660d5741979a 20 contrib/binary-i386/Packages.gz
- 417f614488b48c342a21f29483f9fffe 167 contrib/binary-i386/Release
- d41d8cd98f00b204e9800998ecf8427e 0 non-free/binary-amd64/Packages
- 7029066c27ac6f5ef18d660d5741979a 20 non-free/binary-amd64/Packages.gz
- 7bad27999dc089e9af274a2a0bb8df68 169 non-free/binary-amd64/Release
- d41d8cd98f00b204e9800998ecf8427e 0 non-free/binary-i386/Packages
- 7029066c27ac6f5ef18d660d5741979a 20 non-free/binary-i386/Packages.gz
- 07365ddae48cfe5f7a98dcc5054a24fa 168 non-free/binary-i386/Release
 SHA1:
- 33e955655fde1552f12e2f79f8ad50f897af0046 903 main/binary-amd64/Packages
- f1f3dfec65d9be28acf8089f17a257a4d10698dd 605 main/binary-amd64/Packages.gz
+ b609db3f4db3680ed69fff0fd0a66dd8752102e6 903 main/binary-amd64/Packages
+ 7f79b5128cbeee075d546da57391f11e498a15cc 607 main/binary-amd64/Packages.gz
  1a7383186f8295aeb69a9d09f1b8000e4d1284d4 165 main/binary-amd64/Release
- 33e955655fde1552f12e2f79f8ad50f897af0046 903 main/binary-i386/Packages
- f1f3dfec65d9be28acf8089f17a257a4d10698dd 605 main/binary-i386/Packages.gz
+ b609db3f4db3680ed69fff0fd0a66dd8752102e6 903 main/binary-i386/Packages
+ 7f79b5128cbeee075d546da57391f11e498a15cc 607 main/binary-i386/Packages.gz
  c4d615100d65825d98e7a0c2cdc1eea84568cc5d 164 main/binary-i386/Release
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/binary-amd64/Packages
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/binary-amd64/Packages.gz
- 482940cda0fa014888de9277f48efb0a813d406f 168 contrib/binary-amd64/Release
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/binary-i386/Packages
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/binary-i386/Packages.gz
- b7e4b3fc312c7419ff33c33a88ca525b65acc367 167 contrib/binary-i386/Release
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 non-free/binary-amd64/Packages
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 non-free/binary-amd64/Packages.gz
- f9e767a427caf1467864e08abb21ac72bdaaefa9 169 non-free/binary-amd64/Release
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 non-free/binary-i386/Packages
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 non-free/binary-i386/Packages.gz
- 92ce0ec783eb722218b9d252a9d1761deb3e0c40 168 non-free/binary-i386/Release
 SHA256:
- 42394d63ff4718ae1f9c45a5707e0ec9079ced5d0d2b769d570ad0f3a876b542 903 main/binary-amd64/Packages
- a5ced93cb5c0c9b0375b6c1a51c600a5ad74c0452425df4034ad5baabbd06b11 605 main/binary-amd64/Packages.gz
+ df751b35fc3f7b6f38bbb3a347f7da18e9eb4a2ecd496d49874b0394f4fd5216 903 main/binary-amd64/Packages
+ c7aa190595d2db0d8cd921f111a891a1e82f07361b2f7a28791bb7a1a3d352e9 607 main/binary-amd64/Packages.gz
  315437a71b7c929503d5953c83d32ad49d88b1107ea1232429c54118c9587343 165 main/binary-amd64/Release
- 42394d63ff4718ae1f9c45a5707e0ec9079ced5d0d2b769d570ad0f3a876b542 903 main/binary-i386/Packages
- a5ced93cb5c0c9b0375b6c1a51c600a5ad74c0452425df4034ad5baabbd06b11 605 main/binary-i386/Packages.gz
+ df751b35fc3f7b6f38bbb3a347f7da18e9eb4a2ecd496d49874b0394f4fd5216 903 main/binary-i386/Packages
+ c7aa190595d2db0d8cd921f111a891a1e82f07361b2f7a28791bb7a1a3d352e9 607 main/binary-i386/Packages.gz
  12895e93e09708650a2fbd0b311e9035345deb09378b3b6d820c3065d34dfc71 164 main/binary-i386/Release
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/binary-amd64/Packages
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/binary-amd64/Packages.gz
- 7182ffd67982e82dbeee5b9a7470dff64d531dd20ff64283d89cf20880e946b0 168 contrib/binary-amd64/Release
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/binary-i386/Packages
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/binary-i386/Packages.gz
- 2408e4ac205dfd64b277faf72952598715d172a0c3cd300f34c7f650d8ff8ba7 167 contrib/binary-i386/Release
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 non-free/binary-amd64/Packages
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 non-free/binary-amd64/Packages.gz
- 767014a73506befd564c78c285e165cd42efd891df976cfac66b9c0feb98a858 169 non-free/binary-amd64/Release
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 non-free/binary-i386/Packages
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 non-free/binary-i386/Packages.gz
- e0dace3cecaea022d4ddb6b0aa4c505e7f3f70541e82a4a22b8864a7633be344 168 non-free/binary-i386/Release
