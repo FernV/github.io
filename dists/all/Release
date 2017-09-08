@@ -1,30 +1,30 @@
 Origin: NativeCAM
-Label: Debian Ubuntu All
+Label: All oses that use linuxcnc
 Suite: unstable
-Codename: wheezy
+Codename: all
 Version: 0.1.8
-Date: Thu, 31 Aug 2017 03:24:44 UTC
+Date: Fri, 08 Sep 2017 00:39:50 UTC
 Architectures: amd64 i386
 Components: main
 Description: Conversational programming for LinuxCNC
 MD5Sum:
  61b954b47048a2c59165b25c5834859b 903 main/binary-amd64/Packages
  f6ca4cd4117e2c0c859c80c2ea78bf40 607 main/binary-amd64/Packages.gz
- a3ad516f4f62ff764814ef6c6ea74127 165 main/binary-amd64/Release
+ c0257f6481e1baab684207b0cdff9d1c 174 main/binary-amd64/Release
  61b954b47048a2c59165b25c5834859b 903 main/binary-i386/Packages
  f6ca4cd4117e2c0c859c80c2ea78bf40 607 main/binary-i386/Packages.gz
- e11df315e3cf67b671df6cb355b705d2 164 main/binary-i386/Release
+ 46d3fab41821de7157ffaf862884d1fd 173 main/binary-i386/Release
 SHA1:
  b609db3f4db3680ed69fff0fd0a66dd8752102e6 903 main/binary-amd64/Packages
  7f79b5128cbeee075d546da57391f11e498a15cc 607 main/binary-amd64/Packages.gz
- 1a7383186f8295aeb69a9d09f1b8000e4d1284d4 165 main/binary-amd64/Release
+ 4a4de3b78ba24e87fc3a692e165510400fb1c055 174 main/binary-amd64/Release
  b609db3f4db3680ed69fff0fd0a66dd8752102e6 903 main/binary-i386/Packages
  7f79b5128cbeee075d546da57391f11e498a15cc 607 main/binary-i386/Packages.gz
- c4d615100d65825d98e7a0c2cdc1eea84568cc5d 164 main/binary-i386/Release
+ a0e26a95025612921c2b96890cf5029f3b9d7bc8 173 main/binary-i386/Release
 SHA256:
  df751b35fc3f7b6f38bbb3a347f7da18e9eb4a2ecd496d49874b0394f4fd5216 903 main/binary-amd64/Packages
  c7aa190595d2db0d8cd921f111a891a1e82f07361b2f7a28791bb7a1a3d352e9 607 main/binary-amd64/Packages.gz
- 315437a71b7c929503d5953c83d32ad49d88b1107ea1232429c54118c9587343 165 main/binary-amd64/Release
+ eab905f8725f0de0180076f0ccfabaf31829479258ee510376873004674eb3b2 174 main/binary-amd64/Release
  df751b35fc3f7b6f38bbb3a347f7da18e9eb4a2ecd496d49874b0394f4fd5216 903 main/binary-i386/Packages
  c7aa190595d2db0d8cd921f111a891a1e82f07361b2f7a28791bb7a1a3d352e9 607 main/binary-i386/Packages.gz
- 12895e93e09708650a2fbd0b311e9035345deb09378b3b6d820c3065d34dfc71 164 main/binary-i386/Release
+ 11314fa326f37da695c39a6be5aeacea7412ce9d89d53a7202ebf67417d9a3ed 173 main/binary-i386/Release

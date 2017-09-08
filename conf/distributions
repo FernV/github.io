@@ -1,8 +1,10 @@
 Origin: NativeCAM
-Label: Debian Ubuntu All
+Label: All oses that use linuxcnc
 Suite: unstable
-Codename: wheezy
+Codename: all
 Version: 0.1.8
 Architectures: amd64 i386
 Components: main
+# Update: - debian security
 Description: Conversational programming for LinuxCNC
+# SignWith: yes

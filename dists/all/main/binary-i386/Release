@@ -2,6 +2,6 @@ Archive: unstable
 Version: 0.1.8
 Component: main
 Origin: NativeCAM
-Label: Debian Ubuntu All
+Label: All oses that use linuxcnc
 Architecture: i386
 Description: Conversational programming for LinuxCNC
